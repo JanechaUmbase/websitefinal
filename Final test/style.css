@@ -1,0 +1,39 @@
+
+.error{
+    color: red;
+    border: 5px solid red;
+}
+
+.success {
+    color: yellow;
+    border: 5px solid yellowgreen;
+}
+
+.feedback {
+    color: green;
+    border: 5px solid green;
+}
+
+#top-container{
+    background: gray;
+}
+
+
+a[href*="google"]{
+    background-color: green;
+}
+a[href*="facebook"]{
+    background-color: blue;
+}
+
+a[href*="unklab"]{
+    background-color: red;
+}
+
+
+.first{
+    background-color: lightskyblue;
+    padding: 20px;
+    border: 15px solid red;
+    margin: 10px 5px 15px 1px;
+    }
